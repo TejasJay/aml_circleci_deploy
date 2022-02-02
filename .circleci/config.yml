@@ -1,0 +1,80 @@
+# this template can be found in circleci, for this we need to create .circleci dir and write this code in config.yml
+# using github actions we can push and run the config.yml file when any changes are made.
+# Dockerfile is used give instructions to create an image in dockerhub when it is run on circleci
+# We can build and run a docker image by running the command 'docker build -t demo_app:latest .'
+# $DOCKERHUB_PASSWORD, $DOCKERHUB_USER, $IMAGE_NAME:$TAG, $HEROKU_APP_NAME would be set in circleci environment variables
+version: 2.1 
+orbs:
+  heroku: circleci/heroku@1.0.1
+jobs: # provides a ciecleci machine 
+  build-and-test:
+    executor: heroku/default
+    docker:
+      - image: circleci/python:3.6.2-stretch-browsers # requesting a machine from circleci
+        auth:
+          username: mydockerhub-user
+          password: $DOCKERHUB_PASSWORD  # context / project UI env-var reference
+    steps: # creates environment, runs the test scripts, builds the docker image using Dockerfile
+      - checkout
+      - restore_cache:
+          key: deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
+      - run:
+          name: Install Python deps in a venv
+          command: | # need to mention DOCKER_IMAGE_NAME as a bash command, create virtual env (venv), activate venv, install requirements.txt
+            echo 'export TAG=0.1.${CIRCLE_BUILD_NUM}' >> $BASH_ENV
+            echo 'export IMAGE_NAME=${DOCKER_IMAGE_NAME}' >> $BASH_ENV  
+            python3 -m venv venv
+            . venv/bin/activate
+            pip install --upgrade pip
+            pip install -r requirements.txt
+      - save_cache:
+          key: deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
+          paths:
+            - "venv"
+      - run: # run the test_script.py for unit test cases to check if the application is running fine, if not the deployment will stop
+          command: | # if root url in test_script.py gives successful response (200) it means the app is running fine and passed the test case
+            . venv/bin/activate
+            python -m pytest -v tests/test_script.py
+      - store_artifacts:
+          path: test-reports/
+          destination: tr1
+      - store_test_results:
+          path: test-reports/
+      - setup_remote_docker:
+          version: 19.03.13
+      - run:
+          name: Build and push Docker image
+          command: | # building docker image by giving docker username/imagename/tagname, also login to dockerhub by providing username and password, finally push the image to docker hub
+            docker build -t $DOCKERHUB_USER/$IMAGE_NAME:$TAG .
+            docker login -u $DOCKERHUB_USER -p $DOCKER_HUB_PASSWORD_USER docker.io
+            docker push $DOCKERHUB_USER/$IMAGE_NAME:$TAG
+  deploy: # Deploying to heroku container where docker images can run
+    executor: heroku/default
+    steps:
+      - checkout
+      - run:
+          name: Storing previous commit
+          command: |
+            git rev-parse HEAD > ./commit.txt
+      - heroku/install
+      - setup_remote_docker:
+          version: 18.06.0-ce
+      - run:
+          name: Pushing to heroku registry
+          command: | # login to heroku and provide the app details and push to heroku container registry
+            heroku container:login
+            #heroku ps:scale web=1 -a $HEROKU_APP_NAME
+            heroku container:push web -a $HEROKU_APP_NAME
+            heroku container:release web -a $HEROKU_APP_NAME
+
+workflows:
+  build-test-deploy:
+    jobs:
+      - build-and-test
+      - deploy:
+          requires:
+            - build-and-test
+          filters:
+            branches:
+              only:
+                - main

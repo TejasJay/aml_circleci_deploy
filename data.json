@@ -1,0 +1,1 @@
+{"0": {"Actual": "svc_Actual (Fraud)", "Predicted_Fraud": "True_positive: 3", "Predicted_Not_Fraud": "false_negetive: 1"}, "1": {"Actual": "svc_Actual (Not_Fraud)", "Predicted_Fraud": "false_positive: 1", "Predicted_Not_Fraud": "True_negetive: 2733"}}

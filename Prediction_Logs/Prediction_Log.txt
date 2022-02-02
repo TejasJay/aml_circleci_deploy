@@ -1,0 +1,835 @@
+2021-08-24			17:29:43			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-24			17:29:43			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-24			17:29:43			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			17:29:43			BadRaw directory deleted before starting validation!!!
+2021-08-24			17:29:43			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			17:29:43			GoodRaw directory deleted successfully!!!
+2021-08-24			17:29:43			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-24			17:29:43			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-24			17:29:43			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-24			17:29:43			Column Length Validation Started!!
+2021-08-24			17:29:43			Column Length Validation Completed!!
+2021-08-24			17:29:43			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-24			17:29:43			Missing Values Validation Started!!
+2021-08-24			17:29:43			Entered datatransformation method of dataTransformPredict class
+2021-08-24			17:29:43			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			17:30:46			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-24			17:30:47			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-24			17:30:47			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			17:30:47			BadRaw directory deleted before starting validation!!!
+2021-08-24			17:30:47			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			17:30:47			GoodRaw directory deleted successfully!!!
+2021-08-24			17:30:47			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-24			17:30:47			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-24			17:30:47			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-24			17:30:47			Column Length Validation Started!!
+2021-08-24			17:30:47			Column Length Validation Completed!!
+2021-08-24			17:30:47			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-24			17:30:47			Missing Values Validation Started!!
+2021-08-24			17:30:47			Entered datatransformation method of dataTransformPredict class
+2021-08-24			17:30:47			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			17:30:55			Entered the get_key_space method of dBOperation_prediction class
+2021-08-24			17:30:55			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			17:31:04			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			17:30:47			Raw Data Validation Complete!!
+2021-08-24			17:31:58			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-24			17:31:58			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-24			17:31:58			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			17:31:58			BadRaw directory deleted before starting validation!!!
+2021-08-24			17:31:58			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			17:31:58			GoodRaw directory deleted successfully!!!
+2021-08-24			17:31:58			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-24			17:31:58			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-24			17:31:58			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-24			17:31:58			Column Length Validation Started!!
+2021-08-24			17:31:58			Column Length Validation Completed!!
+2021-08-24			17:31:58			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-24			17:31:58			Missing Values Validation Started!!
+2021-08-24			17:31:59			Entered datatransformation method of dataTransformPredict class
+2021-08-24			17:31:59			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			17:32:05			Entered the get_key_space method of dBOperation_prediction class
+2021-08-24			17:32:05			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			17:32:14			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			17:32:21			Entered the create_table method of dBOperation_prediction class
+2021-08-24			17:32:21			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			17:32:30			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-24			17:32:30			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			17:32:37			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-24			17:32:37			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			17:32:47			File exported successfully!!!
+2021-08-24			17:32:47			Entered the get_data method of the Data_Getter_Pred class
+2021-08-24			17:32:47			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-24			17:31:59			Raw Data Validation Complete!!
+2021-08-24			17:32:47			Start of Prediction
+2021-08-24			17:32:47			End of Prediction
+2021-08-24			18:03:15			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-24			18:03:15			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-24			18:03:15			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			18:03:15			BadRaw directory deleted before starting validation!!!
+2021-08-24			18:03:15			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			18:03:15			GoodRaw directory deleted successfully!!!
+2021-08-24			18:03:15			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-24			18:03:15			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-24			18:03:15			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-24			18:03:15			Column Length Validation Started!!
+2021-08-24			18:03:15			Column Length Validation Completed!!
+2021-08-24			18:03:15			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-24			18:03:15			Missing Values Validation Started!!
+2021-08-24			18:03:15			Entered datatransformation method of dataTransformPredict class
+2021-08-24			18:03:15			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:03:23			Entered the get_key_space method of dBOperation_prediction class
+2021-08-24			18:03:23			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:03:30			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:03:15			Raw Data Validation Complete!!
+2021-08-24			18:25:58			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-24			18:25:58			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-24			18:25:58			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			18:25:58			BadRaw directory deleted before starting validation!!!
+2021-08-24			18:25:58			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			18:25:58			GoodRaw directory deleted successfully!!!
+2021-08-24			18:25:58			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-24			18:25:58			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-24			18:25:58			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-24			18:25:58			Column Length Validation Started!!
+2021-08-24			18:25:58			Column Length Validation Completed!!
+2021-08-24			18:25:58			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-24			18:25:58			Missing Values Validation Started!!
+2021-08-24			18:25:58			Entered datatransformation method of dataTransformPredict class
+2021-08-24			18:25:59			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:26:07			Entered the get_key_space method of dBOperation_prediction class
+2021-08-24			18:26:07			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:26:16			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:26:22			Entered the create_table method of dBOperation_prediction class
+2021-08-24			18:26:22			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:26:32			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-24			18:26:32			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:26:41			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-24			18:26:41			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:26:49			File exported successfully!!!
+2021-08-24			18:26:49			Entered the get_data method of the Data_Getter_Pred class
+2021-08-24			18:26:49			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-24			18:25:58			Raw Data Validation Complete!!
+2021-08-24			18:26:49			Start of Prediction
+2021-08-24			18:26:49			Error occured while running the prediction!! Error:: 
+2021-08-24			18:28:29			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-24			18:28:29			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-24			18:28:29			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			18:28:29			BadRaw directory deleted before starting validation!!!
+2021-08-24			18:28:29			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			18:28:29			GoodRaw directory deleted successfully!!!
+2021-08-24			18:28:29			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-24			18:28:29			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-24			18:28:29			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-24			18:28:29			Column Length Validation Started!!
+2021-08-24			18:28:30			Column Length Validation Completed!!
+2021-08-24			18:28:30			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-24			18:28:30			Missing Values Validation Started!!
+2021-08-24			18:28:30			Entered datatransformation method of dataTransformPredict class
+2021-08-24			18:28:30			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:28:38			Entered the get_key_space method of dBOperation_prediction class
+2021-08-24			18:28:38			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:28:46			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:31:00			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-24			18:31:00			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-24			18:31:00			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			18:31:00			BadRaw directory deleted before starting validation!!!
+2021-08-24			18:31:00			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			18:31:00			GoodRaw directory deleted successfully!!!
+2021-08-24			18:31:00			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-24			18:31:00			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-24			18:31:00			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-24			18:31:00			Column Length Validation Started!!
+2021-08-24			18:31:00			Column Length Validation Completed!!
+2021-08-24			18:31:00			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-24			18:31:00			Missing Values Validation Started!!
+2021-08-24			18:28:30			Raw Data Validation Complete!!
+2021-08-24			18:31:00			Entered datatransformation method of dataTransformPredict class
+2021-08-24			18:31:00			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:31:10			Entered the get_key_space method of dBOperation_prediction class
+2021-08-24			18:31:10			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:31:20			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:31:29			Entered the create_table method of dBOperation_prediction class
+2021-08-24			18:31:29			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:31:38			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-24			18:31:38			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:31:46			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-24			18:31:46			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			18:31:57			File exported successfully!!!
+2021-08-24			18:31:57			Entered the get_data method of the Data_Getter_Pred class
+2021-08-24			18:31:57			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-24			18:31:00			Raw Data Validation Complete!!
+2021-08-24			18:31:57			Start of Prediction
+2021-08-24			18:31:57			End of Prediction
+2021-08-24			20:55:42			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-24			20:55:42			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-24			20:55:42			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			20:55:42			BadRaw directory deleted before starting validation!!!
+2021-08-24			20:55:42			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			20:55:42			GoodRaw directory deleted successfully!!!
+2021-08-24			20:55:42			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-24			20:55:42			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-24			20:55:43			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-24			20:55:43			Column Length Validation Started!!
+2021-08-24			20:55:43			Column Length Validation Completed!!
+2021-08-24			20:55:43			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-24			20:55:43			Missing Values Validation Started!!
+2021-08-24			20:55:43			Entered datatransformation method of dataTransformPredict class
+2021-08-24			20:55:43			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			20:55:53			Entered the get_key_space method of dBOperation_prediction class
+2021-08-24			20:55:53			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			20:56:05			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			20:57:20			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-24			20:57:20			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-24			20:57:20			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			20:57:20			BadRaw directory deleted before starting validation!!!
+2021-08-24			20:57:20			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			20:57:20			GoodRaw directory deleted successfully!!!
+2021-08-24			20:57:20			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-24			20:57:20			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-24			20:57:20			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-24			20:57:20			Column Length Validation Started!!
+2021-08-24			20:57:20			Column Length Validation Completed!!
+2021-08-24			20:57:20			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-24			20:57:20			Missing Values Validation Started!!
+2021-08-24			20:57:20			Entered datatransformation method of dataTransformPredict class
+2021-08-24			20:57:20			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			20:55:43			Raw Data Validation Complete!!
+2021-08-24			20:57:28			Entered the get_key_space method of dBOperation_prediction class
+2021-08-24			20:57:28			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			20:57:38			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			20:57:46			Entered the create_table method of dBOperation_prediction class
+2021-08-24			20:57:46			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			20:57:56			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-24			20:57:56			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			20:58:04			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-24			20:58:04			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			20:58:14			File exported successfully!!!
+2021-08-24			20:58:14			Entered the get_data method of the Data_Getter_Pred class
+2021-08-24			20:58:14			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-24			20:57:20			Raw Data Validation Complete!!
+2021-08-24			20:58:14			Start of Prediction
+2021-08-24			20:58:14			End of Prediction
+2021-08-24			21:24:00			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-24			21:24:00			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-24			21:24:00			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			21:24:00			BadRaw directory deleted before starting validation!!!
+2021-08-24			21:24:00			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			21:24:00			GoodRaw directory deleted successfully!!!
+2021-08-24			21:24:00			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-24			21:24:00			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-24			21:24:00			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-24			21:24:00			Column Length Validation Started!!
+2021-08-24			21:24:04			Column Length Validation Completed!!
+2021-08-24			21:24:04			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-24			21:24:04			Missing Values Validation Started!!
+2021-08-24			21:24:16			Entered datatransformation method of dataTransformPredict class
+2021-08-24			21:24:19			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			21:24:29			Entered the get_key_space method of dBOperation_prediction class
+2021-08-24			21:24:29			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			21:24:39			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			21:25:03			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-24			21:25:03			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-24			21:25:03			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			21:25:03			BadRaw directory deleted before starting validation!!!
+2021-08-24			21:25:03			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-24			21:25:03			GoodRaw directory deleted successfully!!!
+2021-08-24			21:25:03			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-24			21:25:03			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-24			21:25:03			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-24			21:25:03			Column Length Validation Started!!
+2021-08-24			21:25:06			Column Length Validation Completed!!
+2021-08-24			21:25:07			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-24			21:25:07			Missing Values Validation Started!!
+2021-08-24			21:25:19			Entered datatransformation method of dataTransformPredict class
+2021-08-24			21:25:23			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			21:25:32			Entered the get_key_space method of dBOperation_prediction class
+2021-08-24			21:25:32			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			21:25:41			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			21:24:16			Raw Data Validation Complete!!
+2021-08-24			21:25:49			Entered the create_table method of dBOperation_prediction class
+2021-08-24			21:25:49			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			21:25:59			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-24			21:25:59			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			21:37:28			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-24			21:37:28			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-24			21:37:39			File exported successfully!!!
+2021-08-24			21:37:39			Entered the get_data method of the Data_Getter_Pred class
+2021-08-24			21:37:39			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-24			21:25:19			Raw Data Validation Complete!!
+2021-08-24			21:37:39			Start of Prediction
+2021-08-24			21:37:39			End of Prediction
+2021-08-25			15:18:36			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-25			15:18:36			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-25			15:18:36			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:18:36			BadRaw directory deleted before starting validation!!!
+2021-08-25			15:18:36			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:18:36			GoodRaw directory deleted successfully!!!
+2021-08-25			15:18:36			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-25			15:18:36			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-25			15:18:36			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-25			15:18:36			Column Length Validation Started!!
+2021-08-25			15:18:36			Column Length Validation Completed!!
+2021-08-25			15:18:36			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-25			15:18:36			Missing Values Validation Started!!
+2021-08-25			15:18:36			Entered datatransformation method of dataTransformPredict class
+2021-08-25			15:18:36			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:18:46			Entered the get_key_space method of dBOperation_prediction class
+2021-08-25			15:18:46			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:18:54			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:19:17			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-25			15:19:17			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-25			15:19:17			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:19:17			BadRaw directory deleted before starting validation!!!
+2021-08-25			15:19:17			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:19:17			GoodRaw directory deleted successfully!!!
+2021-08-25			15:19:17			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-25			15:19:17			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-25			15:19:17			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-25			15:19:17			Column Length Validation Started!!
+2021-08-25			15:19:17			Column Length Validation Completed!!
+2021-08-25			15:19:18			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-25			15:19:18			Missing Values Validation Started!!
+2021-08-25			15:18:36			Raw Data Validation Complete!!
+2021-08-25			15:19:18			Entered datatransformation method of dataTransformPredict class
+2021-08-25			15:19:18			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:19:26			Entered the get_key_space method of dBOperation_prediction class
+2021-08-25			15:19:26			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:19:35			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:19:44			Entered the create_table method of dBOperation_prediction class
+2021-08-25			15:19:45			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:19:55			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-25			15:19:55			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:20:05			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-25			15:20:05			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:20:15			File exported successfully!!!
+2021-08-25			15:20:15			Entered the get_data method of the Data_Getter_Pred class
+2021-08-25			15:20:15			Exception occured in get_data method of the Data_Getter_Pred class. Exception message: No columns to parse from file
+2021-08-25			15:20:15			Data Load Unsuccessful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-25			15:19:18			Raw Data Validation Complete!!
+2021-08-25			15:20:15			Start of Prediction
+2021-08-25			15:20:15			Error occured while running the prediction!! Error:: No columns to parse from file
+2021-08-25			15:23:26			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-25			15:23:26			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-25			15:23:26			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:23:26			BadRaw directory deleted before starting validation!!!
+2021-08-25			15:23:26			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:23:26			GoodRaw directory deleted successfully!!!
+2021-08-25			15:23:26			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-25			15:23:26			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-25			15:23:26			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-25			15:23:26			Column Length Validation Started!!
+2021-08-25			15:23:26			Column Length Validation Completed!!
+2021-08-25			15:23:26			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-25			15:23:26			Missing Values Validation Started!!
+2021-08-25			15:23:27			Entered datatransformation method of dataTransformPredict class
+2021-08-25			15:23:27			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:23:35			Entered the get_key_space method of dBOperation_prediction class
+2021-08-25			15:23:35			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:23:44			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:24:08			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-25			15:24:08			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-25			15:24:08			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:24:08			BadRaw directory deleted before starting validation!!!
+2021-08-25			15:24:08			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:24:08			GoodRaw directory deleted successfully!!!
+2021-08-25			15:24:08			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-25			15:24:08			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-25			15:24:08			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-25			15:24:08			Column Length Validation Started!!
+2021-08-25			15:24:08			Column Length Validation Completed!!
+2021-08-25			15:24:08			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-25			15:24:08			Missing Values Validation Started!!
+2021-08-25			15:23:27			Raw Data Validation Complete!!
+2021-08-25			15:24:08			Entered datatransformation method of dataTransformPredict class
+2021-08-25			15:24:08			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:24:17			Entered the get_key_space method of dBOperation_prediction class
+2021-08-25			15:24:17			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:24:27			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:24:36			Entered the create_table method of dBOperation_prediction class
+2021-08-25			15:24:36			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:24:45			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-25			15:24:45			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:24:53			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-25			15:24:53			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:25:03			File exported successfully!!!
+2021-08-25			15:25:03			Entered the get_data method of the Data_Getter_Pred class
+2021-08-25			15:25:03			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-25			15:24:08			Raw Data Validation Complete!!
+2021-08-25			15:25:03			Start of Prediction
+2021-08-25			15:25:03			End of Prediction
+2021-08-25			15:25:18			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-25			15:25:18			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-25			15:25:18			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:25:18			BadRaw directory deleted before starting validation!!!
+2021-08-25			15:25:18			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:25:18			GoodRaw directory deleted successfully!!!
+2021-08-25			15:25:18			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-25			15:25:18			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-25			15:25:18			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-25			15:25:18			Column Length Validation Started!!
+2021-08-25			15:25:18			Column Length Validation Completed!!
+2021-08-25			15:25:18			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-25			15:25:18			Missing Values Validation Started!!
+2021-08-25			15:25:18			Entered datatransformation method of dataTransformPredict class
+2021-08-25			15:25:18			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:25:27			Entered the get_key_space method of dBOperation_prediction class
+2021-08-25			15:25:27			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:25:37			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:25:48			Entered the create_table method of dBOperation_prediction class
+2021-08-25			15:25:48			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:25:58			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-25			15:25:58			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:26:08			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-25			15:26:08			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:26:18			File exported successfully!!!
+2021-08-25			15:26:19			Entered the get_data method of the Data_Getter_Pred class
+2021-08-25			15:26:19			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-25			15:25:18			Raw Data Validation Complete!!
+2021-08-25			15:26:18			Start of Prediction
+2021-08-25			15:26:19			Error occured while running the prediction!! Error:: 
+2021-08-25			15:27:50			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-25			15:27:50			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-25			15:27:50			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:27:50			BadRaw directory deleted before starting validation!!!
+2021-08-25			15:27:50			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:27:50			GoodRaw directory deleted successfully!!!
+2021-08-25			15:27:50			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-25			15:27:51			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-25			15:27:51			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-25			15:27:51			Column Length Validation Started!!
+2021-08-25			15:27:51			Column Length Validation Completed!!
+2021-08-25			15:27:51			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-25			15:27:51			Missing Values Validation Started!!
+2021-08-25			15:27:51			Entered datatransformation method of dataTransformPredict class
+2021-08-25			15:27:51			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:27:59			Entered the get_key_space method of dBOperation_prediction class
+2021-08-25			15:27:59			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:28:07			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:28:18			Entered the create_table method of dBOperation_prediction class
+2021-08-25			15:28:18			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:28:27			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-25			15:28:27			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:28:35			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-25			15:28:35			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:28:45			File exported successfully!!!
+2021-08-25			15:28:45			Entered the get_data method of the Data_Getter_Pred class
+2021-08-25			15:28:45			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-25			15:27:51			Raw Data Validation Complete!!
+2021-08-25			15:28:45			Start of Prediction
+2021-08-25			15:28:45			End of Prediction
+2021-08-25			15:30:44			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-25			15:30:44			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-25			15:30:44			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:30:44			BadRaw directory deleted before starting validation!!!
+2021-08-25			15:30:44			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:30:44			GoodRaw directory deleted successfully!!!
+2021-08-25			15:30:44			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-25			15:30:44			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-25			15:30:44			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-25			15:30:44			Column Length Validation Started!!
+2021-08-25			15:30:45			Column Length Validation Completed!!
+2021-08-25			15:30:45			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-25			15:30:45			Missing Values Validation Started!!
+2021-08-25			15:30:45			Entered datatransformation method of dataTransformPredict class
+2021-08-25			15:30:45			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:30:56			Entered the get_key_space method of dBOperation_prediction class
+2021-08-25			15:30:56			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:31:04			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:31:20			Entered the create_table method of dBOperation_prediction class
+2021-08-25			15:31:20			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:31:29			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-25			15:31:29			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:31:39			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-25			15:31:39			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:31:49			File exported successfully!!!
+2021-08-25			15:31:49			Entered the get_data method of the Data_Getter_Pred class
+2021-08-25			15:31:49			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-25			15:30:45			Raw Data Validation Complete!!
+2021-08-25			15:31:49			Start of Prediction
+2021-08-25			15:31:49			Error occured while running the prediction!! Error:: 
+2021-08-25			15:32:04			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-25			15:32:04			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-25			15:32:04			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:32:04			BadRaw directory deleted before starting validation!!!
+2021-08-25			15:32:04			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-25			15:32:04			GoodRaw directory deleted successfully!!!
+2021-08-25			15:32:04			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-25			15:32:04			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-25			15:32:04			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-25			15:32:04			Column Length Validation Started!!
+2021-08-25			15:32:04			Column Length Validation Completed!!
+2021-08-25			15:32:04			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-25			15:32:04			Missing Values Validation Started!!
+2021-08-25			15:32:04			Entered datatransformation method of dataTransformPredict class
+2021-08-25			15:32:04			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:32:14			Entered the get_key_space method of dBOperation_prediction class
+2021-08-25			15:32:14			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:32:22			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:32:39			Entered the create_table method of dBOperation_prediction class
+2021-08-25			15:32:39			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:32:49			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-25			15:32:49			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:32:57			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-25			15:32:57			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-25			15:33:08			File exported successfully!!!
+2021-08-25			15:33:08			Entered the get_data method of the Data_Getter_Pred class
+2021-08-25			15:33:08			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-25			15:32:04			Raw Data Validation Complete!!
+2021-08-25			15:33:08			Start of Prediction
+2021-08-25			15:33:09			End of Prediction
+2021-08-26			08:15:16			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-26			08:15:17			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-26			08:15:17			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:15:17			BadRaw directory deleted before starting validation!!!
+2021-08-26			08:15:17			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:15:17			GoodRaw directory deleted successfully!!!
+2021-08-26			08:15:17			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-26			08:15:17			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-26			08:15:17			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-26			08:15:17			Column Length Validation Started!!
+2021-08-26			08:15:17			Column Length Validation Completed!!
+2021-08-26			08:15:17			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-26			08:15:17			Missing Values Validation Started!!
+2021-08-26			08:15:17			Entered datatransformation method of dataTransformPredict class
+2021-08-26			08:15:17			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:15:24			Entered the get_key_space method of dBOperation_prediction class
+2021-08-26			08:15:24			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:15:35			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:15:57			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-26			08:15:57			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-26			08:15:57			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:15:57			BadRaw directory deleted before starting validation!!!
+2021-08-26			08:15:57			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:15:57			GoodRaw directory deleted successfully!!!
+2021-08-26			08:15:57			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-26			08:15:57			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-26			08:15:57			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-26			08:15:57			Column Length Validation Started!!
+2021-08-26			08:15:57			Column Length Validation Completed!!
+2021-08-26			08:15:57			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-26			08:15:57			Missing Values Validation Started!!
+2021-08-26			08:15:17			Raw Data Validation Complete!!
+2021-08-26			08:15:57			Entered datatransformation method of dataTransformPredict class
+2021-08-26			08:15:58			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:16:08			Entered the get_key_space method of dBOperation_prediction class
+2021-08-26			08:16:08			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:16:17			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:16:24			Entered the create_table method of dBOperation_prediction class
+2021-08-26			08:16:24			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:16:32			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-26			08:16:32			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:16:39			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-26			08:16:39			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:16:48			File exported successfully!!!
+2021-08-26			08:16:49			Entered the get_data method of the Data_Getter_Pred class
+2021-08-26			08:16:49			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-26			08:15:57			Raw Data Validation Complete!!
+2021-08-26			08:16:49			Start of Prediction
+2021-08-26			08:16:49			End of Prediction
+2021-08-26			08:44:43			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-26			08:44:43			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-26			08:44:43			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:44:43			BadRaw directory deleted before starting validation!!!
+2021-08-26			08:44:43			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:44:43			GoodRaw directory deleted successfully!!!
+2021-08-26			08:44:43			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-26			08:44:43			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-26			08:44:43			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-26			08:44:43			Column Length Validation Started!!
+2021-08-26			08:44:43			Column Length Validation Completed!!
+2021-08-26			08:44:43			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-26			08:44:43			Missing Values Validation Started!!
+2021-08-26			08:44:43			Entered datatransformation method of dataTransformPredict class
+2021-08-26			08:44:43			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:44:50			Entered the get_key_space method of dBOperation_prediction class
+2021-08-26			08:44:50			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:44:57			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:45:19			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-26			08:45:19			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-26			08:45:19			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:45:19			BadRaw directory deleted before starting validation!!!
+2021-08-26			08:45:19			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:45:19			GoodRaw directory deleted successfully!!!
+2021-08-26			08:45:19			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-26			08:45:19			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-26			08:45:20			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-26			08:45:20			Column Length Validation Started!!
+2021-08-26			08:45:20			Column Length Validation Completed!!
+2021-08-26			08:45:20			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-26			08:45:20			Missing Values Validation Started!!
+2021-08-26			08:44:43			Raw Data Validation Complete!!
+2021-08-26			08:45:20			Entered datatransformation method of dataTransformPredict class
+2021-08-26			08:45:20			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:45:29			Entered the get_key_space method of dBOperation_prediction class
+2021-08-26			08:45:29			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:45:36			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:45:43			Entered the create_table method of dBOperation_prediction class
+2021-08-26			08:45:43			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:45:51			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-26			08:45:51			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:46:00			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-26			08:46:00			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:46:11			File exported successfully!!!
+2021-08-26			08:46:11			Entered the get_data method of the Data_Getter_Pred class
+2021-08-26			08:46:11			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-26			08:45:20			Raw Data Validation Complete!!
+2021-08-26			08:46:11			Start of Prediction
+2021-08-26			08:46:11			End of Prediction
+2021-08-26			08:52:24			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-26			08:52:24			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-26			08:52:24			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:52:24			BadRaw directory deleted before starting validation!!!
+2021-08-26			08:52:24			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:52:24			GoodRaw directory deleted successfully!!!
+2021-08-26			08:52:24			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-26			08:52:24			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-26			08:52:24			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-26			08:52:24			Column Length Validation Started!!
+2021-08-26			08:52:24			Column Length Validation Completed!!
+2021-08-26			08:52:24			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-26			08:52:24			Missing Values Validation Started!!
+2021-08-26			08:52:24			Entered datatransformation method of dataTransformPredict class
+2021-08-26			08:52:24			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:52:33			Entered the get_key_space method of dBOperation_prediction class
+2021-08-26			08:52:33			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:52:41			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:52:24			Raw Data Validation Complete!!
+2021-08-26			08:55:24			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-26			08:55:24			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-26			08:55:24			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:55:24			BadRaw directory deleted before starting validation!!!
+2021-08-26			08:55:24			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-26			08:55:24			GoodRaw directory deleted successfully!!!
+2021-08-26			08:55:24			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-26			08:55:24			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-26			08:55:24			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-26			08:55:24			Column Length Validation Started!!
+2021-08-26			08:55:24			Column Length Validation Completed!!
+2021-08-26			08:55:24			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-26			08:55:24			Missing Values Validation Started!!
+2021-08-26			08:55:24			Entered datatransformation method of dataTransformPredict class
+2021-08-26			08:55:25			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:55:33			Entered the get_key_space method of dBOperation_prediction class
+2021-08-26			08:55:33			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:55:40			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:55:47			Entered the create_table method of dBOperation_prediction class
+2021-08-26			08:55:47			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:55:56			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-26			08:55:56			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:56:04			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-26			08:56:04			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-26			08:56:11			File exported successfully!!!
+2021-08-26			08:56:11			Entered the get_data method of the Data_Getter_Pred class
+2021-08-26			08:56:11			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-26			08:55:24			Raw Data Validation Complete!!
+2021-08-26			08:56:11			Start of Prediction
+2021-08-26			08:56:11			End of Prediction
+2021-08-28			21:42:53			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-28			21:42:54			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-28			21:42:54			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-28			21:42:54			BadRaw directory deleted before starting validation!!!
+2021-08-28			21:42:54			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-28			21:42:54			GoodRaw directory deleted successfully!!!
+2021-08-28			21:42:54			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-28			21:42:54			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-28			21:42:54			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-28			21:42:54			Column Length Validation Started!!
+2021-08-28			21:42:54			Column Length Validation Completed!!
+2021-08-28			21:42:54			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-28			21:42:54			Missing Values Validation Started!!
+2021-08-28			21:42:54			Entered datatransformation method of dataTransformPredict class
+2021-08-28			21:42:54			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-28			21:43:01			Entered the get_key_space method of dBOperation_prediction class
+2021-08-28			21:43:01			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-28			21:43:09			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-28			21:43:55			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-08-28			21:43:55			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-08-28			21:43:55			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-08-28			21:43:55			BadRaw directory deleted before starting validation!!!
+2021-08-28			21:43:55			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-08-28			21:43:55			GoodRaw directory deleted successfully!!!
+2021-08-28			21:43:55			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-08-28			21:43:55			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-08-28			21:43:55			Entered validateColumnLength method of Prediction_Data_validation class
+2021-08-28			21:43:55			Column Length Validation Started!!
+2021-08-28			21:43:55			Column Length Validation Completed!!
+2021-08-28			21:43:55			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-08-28			21:43:55			Missing Values Validation Started!!
+2021-08-28			21:43:55			Entered datatransformation method of dataTransformPredict class
+2021-08-28			21:43:55			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-28			21:44:04			Entered the get_key_space method of dBOperation_prediction class
+2021-08-28			21:44:04			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-28			21:42:54			Raw Data Validation Complete!!
+2021-08-28			21:44:11			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-28			21:44:18			Entered the create_table method of dBOperation_prediction class
+2021-08-28			21:44:18			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-28			21:44:25			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-08-28			21:44:25			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-28			21:44:33			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-08-28			21:44:33			Entered the cassandra_connection method of dBOperation_prediction class
+2021-08-28			21:44:40			File exported successfully!!!
+2021-08-28			21:44:40			Entered the get_data method of the Data_Getter_Pred class
+2021-08-28			21:44:40			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-08-28			21:43:55			Raw Data Validation Complete!!
+2021-08-28			21:44:40			Start of Prediction
+2021-08-28			21:44:40			End of Prediction
+2021-12-01			19:25:13			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-12-01			19:25:13			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-12-01			19:25:13			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-12-01			19:25:13			BadRaw directory deleted before starting validation!!!
+2021-12-01			19:25:13			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-12-01			19:25:13			GoodRaw directory deleted successfully!!!
+2021-12-01			19:25:13			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-12-01			19:25:13			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-12-01			19:25:13			Entered validateColumnLength method of Prediction_Data_validation class
+2021-12-01			19:25:13			Column Length Validation Started!!
+2021-12-01			19:25:13			Column Length Validation Completed!!
+2021-12-01			19:25:13			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-12-01			19:25:13			Missing Values Validation Started!!
+2021-12-01			19:25:13			Entered datatransformation method of dataTransformPredict class
+2021-12-01			19:25:13			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-01			19:25:21			Entered the get_key_space method of dBOperation_prediction class
+2021-12-01			19:25:21			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-01			19:25:31			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-01			19:25:55			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-12-01			19:25:55			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-12-01			19:25:55			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-12-01			19:25:55			BadRaw directory deleted before starting validation!!!
+2021-12-01			19:25:55			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-12-01			19:25:55			GoodRaw directory deleted successfully!!!
+2021-12-01			19:25:55			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-12-01			19:25:55			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-12-01			19:25:55			Entered validateColumnLength method of Prediction_Data_validation class
+2021-12-01			19:25:55			Column Length Validation Started!!
+2021-12-01			19:25:55			Column Length Validation Completed!!
+2021-12-01			19:25:55			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-12-01			19:25:55			Missing Values Validation Started!!
+2021-12-01			19:25:55			Entered datatransformation method of dataTransformPredict class
+2021-12-01			19:25:55			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-01			19:26:04			Entered the get_key_space method of dBOperation_prediction class
+2021-12-01			19:26:04			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-01			19:25:13			Raw Data Validation Complete!!
+2021-12-01			19:26:13			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-01			19:26:22			Entered the create_table method of dBOperation_prediction class
+2021-12-01			19:26:22			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-01			19:26:32			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-12-01			19:26:32			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-01			19:26:40			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-12-01			19:26:40			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-01			19:26:48			File exported successfully!!!
+2021-12-01			19:26:48			Entered the get_data method of the Data_Getter_Pred class
+2021-12-01			19:26:48			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-12-01			19:25:55			Raw Data Validation Complete!!
+2021-12-01			19:26:48			Start of Prediction
+2021-12-01			19:26:48			End of Prediction
+2021-12-05			05:43:17			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-12-05			05:43:17			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-12-05			05:43:17			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-12-05			05:43:17			BadRaw directory deleted before starting validation!!!
+2021-12-05			05:43:17			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-12-05			05:43:17			GoodRaw directory deleted successfully!!!
+2021-12-05			05:43:17			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-12-05			05:43:17			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-12-05			05:43:17			Entered validateColumnLength method of Prediction_Data_validation class
+2021-12-05			05:43:17			Column Length Validation Started!!
+2021-12-05			05:43:17			Column Length Validation Completed!!
+2021-12-05			05:43:17			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-12-05			05:43:17			Missing Values Validation Started!!
+2021-12-05			05:43:17			Entered datatransformation method of dataTransformPredict class
+2021-12-05			05:43:17			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-05			05:43:27			Entered the get_key_space method of dBOperation_prediction class
+2021-12-05			05:43:27			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-05			05:43:36			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-05			05:44:02			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-12-05			05:44:02			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-12-05			05:44:02			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-12-05			05:44:02			BadRaw directory deleted before starting validation!!!
+2021-12-05			05:44:02			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-12-05			05:44:02			GoodRaw directory deleted successfully!!!
+2021-12-05			05:44:02			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-12-05			05:44:02			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-12-05			05:44:02			Entered validateColumnLength method of Prediction_Data_validation class
+2021-12-05			05:44:02			Column Length Validation Started!!
+2021-12-05			05:44:02			Column Length Validation Completed!!
+2021-12-05			05:44:02			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-12-05			05:44:02			Missing Values Validation Started!!
+2021-12-05			05:43:17			Raw Data Validation Complete!!
+2021-12-05			05:44:02			Entered datatransformation method of dataTransformPredict class
+2021-12-05			05:44:02			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-05			05:44:11			Entered the get_key_space method of dBOperation_prediction class
+2021-12-05			05:44:11			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-05			05:44:21			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-05			05:44:30			Entered the create_table method of dBOperation_prediction class
+2021-12-05			05:44:30			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-05			05:44:43			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-12-05			05:44:43			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-05			05:44:53			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-12-05			05:44:53			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-05			05:45:03			File exported successfully!!!
+2021-12-05			05:45:03			Entered the get_data method of the Data_Getter_Pred class
+2021-12-05			05:45:03			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-12-05			05:44:02			Raw Data Validation Complete!!
+2021-12-05			05:45:03			Start of Prediction
+2021-12-05			05:45:03			End of Prediction
+2021-12-22			22:52:14			Entered valuesFromSchema method of Prediction_Data_validation class
+2021-12-22			22:52:14			LengthOfDateStampInFile:: 8	NumberofColumns:: 20
+
+2021-12-22			22:52:14			Entered deleteExistingBadDataTrainingFolder method of Prediction_Data_validation class
+2021-12-22			22:52:14			BadRaw directory deleted before starting validation!!!
+2021-12-22			22:52:14			Entered deleteExistingGoodDataTrainingFolder method of Prediction_Data_validation class
+2021-12-22			22:52:14			GoodRaw directory deleted successfully!!!
+2021-12-22			22:52:14			Entered createDirectoryForGoodBadRawData method of Prediction_Data_validation class
+2021-12-22			22:52:14			Entered validationFileNameRaw method of Prediction_Data_validation class
+2021-12-22			22:52:14			Entered validateColumnLength method of Prediction_Data_validation class
+2021-12-22			22:52:14			Column Length Validation Started!!
+2021-12-22			22:52:14			Column Length Validation Completed!!
+2021-12-22			22:52:14			Entered validateMissingValuesInWholeColumn method of Prediction_Data_validation class
+2021-12-22			22:52:14			Missing Values Validation Started!!
+2021-12-22			22:52:14			Entered datatransformation method of dataTransformPredict class
+2021-12-22			22:52:14			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-22			22:52:22			Entered the get_key_space method of dBOperation_prediction class
+2021-12-22			22:52:22			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-22			22:52:30			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-22			22:52:38			Entered the create_table method of dBOperation_prediction class
+2021-12-22			22:52:38			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-22			22:52:49			Entered the insertIntoTableGoodData method of dBOperation_prediction class
+2021-12-22			22:52:49			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-22			22:52:59			Entered the selectingDatafromtableintocsv method of dBOperation_prediction class
+2021-12-22			22:52:59			Entered the cassandra_connection method of dBOperation_prediction class
+2021-12-22			22:53:09			File exported successfully!!!
+2021-12-22			22:53:09			Entered the get_data method of the Data_Getter_Pred class
+2021-12-22			22:53:09			Data Load Successful.Exited the get_data method of the Data_Getter_Pred class
+2021-12-22			22:52:14			Raw Data Validation Complete!!
+2021-12-22			22:53:09			Start of Prediction
+2021-12-22			22:53:09			End of Prediction

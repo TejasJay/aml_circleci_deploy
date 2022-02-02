@@ -1,0 +1,5 @@
+unique_ID,Transacted_amount,Orig_OLD_acc_balance,Orig_NEW_acc_balance,Dest_OLD_acc_balance,Dest_NEW_acc_balance,latitude,longitude,total_hrs_from_first_trans,transaction_type
+82bfc386-61cb-4923-bd1b-ff7d87b2d403,148735.16,15979.0,164714.16,0.0,0.0,40.24537,-75.64963,132.00000000000003,5
+8dffc4c5-f0e8-428f-8cd1-9455d51002ec,224063.49,53625.0,277688.49,32326.11,0.0,33.08014,-83.2321,332.0,5
+17336aba-ddd1-4c84-ae4b-39fe1764b95e,8889.14,0.0,0.0,0.0,0.0,30.17746,-81.38758,14.0,1
+09c230e1-27b3-46be-b2ef-ab1f261a1956,17213.23,0.0,0.0,0.0,0.0,32.44874,-99.73314,183.0,1

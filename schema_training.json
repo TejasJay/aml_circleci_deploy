@@ -1,0 +1,28 @@
+{
+  "SampleFileName": "AmlSarScreening_08152020.csv",
+  "LengthOfDateStampInFile": 8,
+  "NumberofColumns": 21,
+  "ColName": {
+    "unique_ID": "string",
+    "step": " integer",
+    "type": " string",
+    "Transacted_amount": " float",
+    "Originator_acc_num": " string",
+    "Orig_OLD_acc_balance": " float",
+    "Orig_NEW_acc_balance": " float",
+    "Destination_acc_num": " string",
+    "Dest_OLD_acc_balance": " float",
+    "Dest_NEW_acc_balance": " float",
+    "latitude": " float",
+    "longitude": " float",
+    "street": " string",
+    "country": " string",
+    "state": " string",
+    "Day_time": " string",
+    "day_number": " integer",
+    "total_hrs_from_first_trans": " float",
+    "transaction_type": " integer",
+    "alerts_generated": " integer",
+    "SAR_Fraud": " integer"
+  }
+}
