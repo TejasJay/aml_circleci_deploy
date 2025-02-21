@@ -132,6 +132,7 @@ class Model_Finder_new:
             print('\n')
             print("Precision: " + str(precision_gnb))
             print('\n')
+            print('\n')
 
             print('\n')
             print("Recall: " + str(recall_gnb))
