@@ -20,7 +20,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 class Model_Finder_new:
     """
     This class shall  be used to find the model with best accuracy and AUC score.
-    Written By: Tejas Jay (TJ)
+    Written By: Tejas Jay 
     Version: 1.0
     Revisions: None
 
