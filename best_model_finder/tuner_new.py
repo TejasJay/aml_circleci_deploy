@@ -381,7 +381,7 @@ class Model_Finder_new:
 
             json_confusion_matrix_report_rf = df_confusion_matrix_report_rf.to_json(orient='index')
 
-            # print(json_confusion_matrix_report)
+            print(json_confusion_matrix_report)
 
             classification_report_rf = classification_report(test_y, pred_y_rf_new)
             splitting_rf = classification_report_rf.split('\n')
